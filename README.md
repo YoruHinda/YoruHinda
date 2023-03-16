@@ -1,5 +1,6 @@
 ## YoruHinda GitHub Profile :)
-Name: Ruan Phablo Moreira De Souza, Age: 18y
+Name: Ruan Phablo Moreira De Souza
+Age: 19y
 <div>
   <a href="https://github.com/YoruHinda">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YoruHinda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
