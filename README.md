@@ -1,12 +1,6 @@
 ## YoruHinda GitHub Profile :)
 Name: Ruan Phablo Moreira De Souza <br/>
 Age: 19y
-<div>
-  <a href="https://github.com/YoruHinda">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YoruHinda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruHinda&layout=compact&langs_count=7&theme=dark"/>
-    </a>
-</div>
 
 <div>
   <img width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
